@@ -60,6 +60,10 @@ export default function Home() {
       <div className="lander">
         <h1>Scratch</h1>
         <p>A simple note taking app</p>
+        <img className="home-images" src={require("../Images/studying1.jpg")} alt="studying" />
+        <h2>Easy to use notekeeping device</h2>
+        <img className="home-images" src={require("../Images/notetaking.jpeg")} alt="notetaking" />
+        <h2>Environmentally Friendly</h2>
       </div>
     );
   }

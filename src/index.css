@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 16px;
   color: #333;
   -webkit-font-smoothing: antialiased;
@@ -9,12 +9,11 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: "Oswald", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Serif", serif;
+  font-family: "Oswald", sans-serif;
 }
 
 select.form-control, textarea.form-control, input.form-control {
